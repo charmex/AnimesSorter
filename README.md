@@ -6,10 +6,15 @@ This program will look for files in the selected folder and sort them in their r
 Example: 
 
 If theres a folder with the following files:
+
   [HorribleSubs] Rokujouma no Shinryakusha - 05 [720p].mkv
+  
   [HorribleSubs] Sword Art Online II - 05 [720p].mkv
+  
   [HorribleSubs] Bakumatsu Rock - 06 [720p].mkv
+  
   [HorribleSubs] Akame ga Kill! - 03 [720p].mkv
+  
 
 It will create the following folders:
   Rokujouma no Shinryakusha
